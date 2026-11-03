@@ -44,12 +44,12 @@ I am interested in building reliable web systems and exploring how AI can make s
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 2, 2026: merged pull request [#72](https://github.com/SkillSpan/Back-End) in [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
+- Nov 2, 2026: opened pull request [#72](https://github.com/SkillSpan/Back-End) in [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
 - Oct 30, 2026: pushed 1 commit to [SkillSpan/Front-end](https://github.com/SkillSpan/Front-end).
 - Oct 28, 2026: pushed 1 commit to [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
 - Oct 26, 2026: pushed 1 commit to [SkillSpan/Front-end](https://github.com/SkillSpan/Front-end).
 - Oct 25, 2026: pushed 1 commit to [SkillSpan/Front-end](https://github.com/SkillSpan/Front-end).
-- Oct 22, 2026: pushed 1 commit to [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
-- Oct 21, 2026: pushed 1 commit to [SkillSpan/Front-end](https://github.com/SkillSpan/Front-end).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
