@@ -44,12 +44,12 @@ I am interested in building reliable web systems and exploring how AI can make s
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Nov 17, 2026: created a branch in [AhmedSaqllah2005/SkillSpan-Backend-API](https://github.com/AhmedSaqllah2005/SkillSpan-Backend-API).
-- Nov 17, 2026: pushed 1 commit to [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
-- Nov 17, 2026: pushed 1 commit to [AhmedSaqllah2005/SkillSpan-Backend-API](https://github.com/AhmedSaqllah2005/SkillSpan-Backend-API).
-- Nov 13, 2026: pushed 1 commit to [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
-- Nov 12, 2026: pushed 1 commit to [SkillSpan/Front-end](https://github.com/SkillSpan/Front-end).
-- Nov 12, 2026: pushed 1 commit to [SkillSpan/Back-End](https://github.com/SkillSpan/Back-End).
+- Nov 20, 2026: merged pull request [#103](https://github.com/SkillSpan/SkillSpan-Backend-API) in [SkillSpan/SkillSpan-Backend-API](https://github.com/SkillSpan/SkillSpan-Backend-API).
+- Nov 20, 2026: opened pull request [#103](https://github.com/SkillSpan/SkillSpan-Backend-API) in [SkillSpan/SkillSpan-Backend-API](https://github.com/SkillSpan/SkillSpan-Backend-API).
+- Nov 20, 2026: merged pull request [#102](https://github.com/SkillSpan/SkillSpan-Backend-API) in [SkillSpan/SkillSpan-Backend-API](https://github.com/SkillSpan/SkillSpan-Backend-API).
+- Nov 20, 2026: opened pull request [#102](https://github.com/SkillSpan/SkillSpan-Backend-API) in [SkillSpan/SkillSpan-Backend-API](https://github.com/SkillSpan/SkillSpan-Backend-API).
+- Nov 20, 2026: merged pull request [#101](https://github.com/SkillSpan/SkillSpan-Backend-API) in [SkillSpan/SkillSpan-Backend-API](https://github.com/SkillSpan/SkillSpan-Backend-API).
+- Nov 20, 2026: opened pull request [#101](https://github.com/SkillSpan/SkillSpan-Backend-API) in [SkillSpan/SkillSpan-Backend-API](https://github.com/SkillSpan/SkillSpan-Backend-API).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
